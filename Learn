@@ -1,0 +1,8 @@
+#ipconfig | select-string -pattern 255
+#-----------------------------------------------------------------------------
+#ipconfig | findstr "Address"
+#-----------------------------------------------------------------------------
+#Para criar um arquivo de perfil do Windows PowerShell, digite:
+#new-item -path $profile -itemtype file -force
+#function pro { notepad $profile }
+#-----------------------------------------------------------------------------
